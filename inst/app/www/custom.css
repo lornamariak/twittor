@@ -1,0 +1,22 @@
+body{
+  background-color: #EFDB9D;
+  font-family: "Lucida Console", Courier, monospace;
+  color: #313E40;
+}
+div{
+  border: 2px;
+  border-radius: 10px;
+
+}
+.sidebar{
+  background-color: #2FB7A3;
+  border-radius: 30px;
+  border: solid 3px;
+  border-color: #F3F8D3;
+}
+.note{
+  font-weight: bold;
+}
+#navbar{
+ background-color: #2FB7A3;
+}

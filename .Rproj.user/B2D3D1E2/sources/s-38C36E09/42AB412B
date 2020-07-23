@@ -1,0 +1,24 @@
+{
+    "id": "42AB412B",
+    "path": "~/ThinkR Training/twittor/R/mod_top.R",
+    "project_path": "R/mod_top.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1595362766246.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "cursorPosition": "26,22",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595367405,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595367405898,
+    "read_only": false,
+    "read_only_alternatives": []
+}

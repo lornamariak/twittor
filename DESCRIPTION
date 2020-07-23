@@ -1,0 +1,25 @@
+Package: twittor
+Title: Twittor
+Version: 0.0.0.9000
+Authors@R: person('Lorna', 'Maria', email = 'lm@hey.com', role = c('cre', 'aut'))
+Description: This is a twitter analysis package
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny,
+    htmltools,
+    readr,
+    glue,
+    dplyr,
+    magrittr,
+    R6,
+    ggplot2,
+    lubridate,
+    shinipsum,
+    DT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
